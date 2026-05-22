@@ -1,0 +1,12 @@
+ELEVATOR PITCH PROYECTO: END-TO-END CHURN ANALYSIS
+
+¿Qué hice?
+Desarrollé un análisis analítico integral (End-to-End) para identificar los principales disparadores de la fuga de clientes (Churn) en una compañía de telecomunicaciones, transformando datos brutos en insights accionables para el equipo de Customer Success.
+
+¿Qué herramientas usaste?
+- Python (Pandas): Para la limpieza de datos, imputación de valores nulos y análisis exploratorio (EDA).
+- SQL (PostgreSQL): Para la segmentación avanzada de clientes y cálculo de métricas financieras de impacto mediante queries optimizadas.
+- Power BI: Para la creación de un dashboard ejecutivo interactivo enfocado en la consistencia visual y la jerarquía de KPIs.
+
+¿Cuál fue el hallazgo más impactante?
+A través del análisis cruzado, descubrí que los clientes con servicio de Fibra Óptica presentan una tasa de fuga de 22.93% mayor en comparación con los de ADSL, además en los primeros 5 meses de contrato se presentan el 74.83% de estas bajas. Estas bajas representan una fuga de ingresos anuales estimada en $ 418.06 mil. Esto puede deberse a que los clientes no están conformes con el servicio prestado vs lo que les prometieron.
