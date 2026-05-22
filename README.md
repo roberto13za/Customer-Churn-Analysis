@@ -1,9 +1,5 @@
 # 📊 Análisis de Retención de Clientes en Telecomunicaciones (Churn Analysis)
 
-[![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
-[![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue.svg)](https://www.postgresql.org/)
-[![Power BI](https://img.shields.io/badge/Dashboard-Power%20BI-orange.svg)](https://powerbi.microsoft.com/)
-
 Este proyecto presenta un ecosistema analítico integral (End-to-End) diseñado para identificar las causas raíz de la deserción de clientes (*Churn*), utilizando un enfoque metodológico que combina ingeniería de datos, validación estadística y storytelling visual.
 
 ## 📁 Estructura del Repositorio
@@ -44,11 +40,11 @@ Tras cruzar los hallazgos de las herramientas, se definieron tres estrategias pr
    * **Hallazgo:** Los clientes con contratos mes a mes (*Month-to-month*) representan el mayor volumen absoluto de deserción.
    * **Estrategia:** Se podria implementar una campaña automatizada de migración a planes anuales ofreciendo un incentivo del 15% de descuento durante el primer trimestre. Retener un cliente activo es drásticamente más económico que el costo de adquisición (CAC) de uno nuevo.
 
-2. **Auditoría Técnica al Servicio de Fibra Óptica:**
+2. **Auditoría al Servicio de Fibra Óptica:**
    * **Hallazgo:** Los usuarios con tecnología de Fibra Óptica muestran tasas de abandono anormalmente altas durante sus primeros 6 meses de vida comercial.
-   * **Estrategia:** Coordinar con el área de operaciones una auditoría de calidad en los procesos de instalación inicial. Se recomienda activar un protocolo de post-venta obligatorio (*Check-in* de satisfacción) a los 30 días de la contratación.
+   * **Estrategia:** Se podria auditar la calidad en los procesos de instalación inicial del servicio de fibra optica. Se recomienda activar un protocolo de post-venta obligatorio (*Check-in* de satisfacción) a los 30 días de la contratación.
 
-3. **Empaquetamiento Estratégico de Soporte Técnico:**
+3. **Incluir el servicio de Soporte Técnico en los paquetes de ventas:**
    * **Hallazgo:** Los clientes que carecen del servicio de soporte técnico contratado (*Tech Support*) tienen una probabilidad casi 3 veces mayor de abandonar la compañía ante la primera incidencia.
    * **Estrategia:** Subsidiar o incluir el soporte técnico básico de forma nativa dentro de los paquetes de internet premium para elevar las barreras de salida del cliente.
 
