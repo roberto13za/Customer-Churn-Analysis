@@ -1,12 +1,30 @@
-ELEVATOR PITCH PROYECTO: END-TO-END CHURN ANALYSIS
+🇺🇸 English Version: Global Market & Remote Work Ready
+Project Overview
+I designed and implemented an End-to-End analytics project to identify the core drivers of customer churn in a telecom enterprise, converting raw data into high-impact actionable insights for Customer Success and Retention teams.
 
+Tech Stack & Methodology
+
+Python (Pandas & SciPy): Executed advanced data cleaning, feature engineering (such as ARPU calculations), and robust statistical validation using independent hypothesis testing (T-Tests).
+
+SQL (PostgreSQL): Built a standardized data repository using snake_case, developed optimized queries (CTEs and Window Functions), and deployed a semantic layer via views for seamless reporting.
+
+Power BI: Developed an interactive, executive-ready dashboard focused on visual hierarchy and tracking critical KPIs like Revenue at Risk.
+
+The Most Impactful Business Insight
+Through cross-analysis, I discovered that Fiber Optic subscribers exhibit a churn rate 22.93% higher than ADSL users, with 74.83% of these cancellations occurring within the first 5 months of tenure. This specific issue reflects an estimated annual revenue leakage of $418.06K. This critical finding points to an initial mismatch between marketing expectations and service performance, allowing the retention team to implement early onboarding guardrails for high-risk accounts.
+
+---------------------------------------------------------------------------------------------------------------------------------
+🇪🇸 Versión en Español: Enfoque de Negocio y Data Senior
 ¿Qué hice?
-Desarrollé un análisis analítico integral (End-to-End) para identificar los principales disparadores de la fuga de clientes (Churn) en una compañía de telecomunicaciones, transformando datos brutos en insights accionables para el equipo de Customer Success.
+Diseñé e implementé un proyecto analítico End-to-End enfocado en mitigar la fuga de clientes (Churn) en una compañía de telecomunicaciones, transformando datos crudos en insights de alto impacto comercial para las áreas de Customer Success y Retención.
 
 ¿Qué herramientas usaste?
-- Python (Pandas): Para la limpieza de datos, imputación de valores nulos y análisis exploratorio (EDA).
-- SQL (PostgreSQL): Para la segmentación avanzada de clientes y cálculo de métricas financieras de impacto mediante queries optimizadas.
-- Power BI: Para la creación de un dashboard ejecutivo interactivo enfocado en la consistencia visual y la jerarquía de KPIs.
+
+Python (Pandas & SciPy): Limpieza profunda de datos, ingeniería de características (cálculo de ARPU) y validación estadística mediante pruebas de hipótesis (T-Test).
+
+SQL (PostgreSQL): Modelado del repositorio de datos bajo estándar snake_case, optimización de consultas avanzadas (CTEs y Funciones de Ventana) y creación de la capa semántica de negocio.
+
+Power BI: Construcción de un dashboard ejecutivo interactivo con una estricta jerarquía visual centrada en el monitoreo del Revenue at Risk.
 
 ¿Cuál fue el hallazgo más impactante?
-A través del análisis cruzado, descubrí que los clientes con servicio de Fibra Óptica presentan una tasa de fuga de 22.93% mayor en comparación con los de ADSL, además en los primeros 5 meses de contrato se presentan el 74.83% de estas bajas. Estas bajas representan una fuga de ingresos anuales estimada en $ 418.06 mil. Esto puede deberse a que los clientes no están conformes con el servicio prestado vs lo que les prometieron.
+Identifiqué que los clientes con servicio de Fibra Óptica presentan una tasa de deserción un 22.93% mayor que los de ADSL, concentrando el 74.83% de las bajas en los primeros 5 meses de antigüedad. Este comportamiento representa una fuga de ingresos proyectada en $418.06K anuales. El hallazgo sugiere un problema crítico en la expectativa de venta frente a la calidad real del servicio, permitiendo al equipo de operaciones activar campañas de retención tempranas en este segmento de alto riesgo.
